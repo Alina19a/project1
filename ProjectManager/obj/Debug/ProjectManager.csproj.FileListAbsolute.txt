@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Form1.resources
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe.config
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.exe
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectManager.pdb
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.pdb
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectOne.exe.config
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.pdb
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\bin\Debug\ProjectTwo.exe.config
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectM.8307BD89.Up2Date
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.exe
+C:\Users\user\source\repos\SolutionMultyProject\ProjectManager\obj\Debug\ProjectManager.pdb

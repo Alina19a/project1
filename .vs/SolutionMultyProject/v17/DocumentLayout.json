@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9747BA-3623-4F36-BB97-93FC2AD6AC02}|ProjectManager\\ProjectManager.csproj|c:\\users\\user\\source\\repos\\solutionmultyproject\\projectmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9747BA-3623-4F36-BB97-93FC2AD6AC02}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9747BA-3623-4F36-BB97-93FC2AD6AC02}|ProjectManager\\ProjectManager.csproj|C:\\Users\\user\\source\\repos\\SolutionMultyProject\\projectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE9747BA-3623-4F36-BB97-93FC2AD6AC02}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE7AF777-4D8A-486A-8957-EEE52C2F5E16}|ProjectOne\\ProjectOne.csproj|C:\\Users\\user\\source\\repos\\SolutionMultyProject\\projectone\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE7AF777-4D8A-486A-8957-EEE52C2F5E16}|ProjectOne\\ProjectOne.csproj|solutionrelative:projectone\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE9747BA-3623-4F36-BB97-93FC2AD6AC02}|ProjectManager\\ProjectManager.csproj|C:\\Users\\user\\source\\repos\\SolutionMultyProject\\projectmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FE9747BA-3623-4F36-BB97-93FC2AD6AC02}|ProjectManager\\ProjectManager.csproj|solutionrelative:projectmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\ProjectManager\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\ProjectManager\\Program.cs",
+              "RelativeToolTip": "ProjectManager\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:27:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "ProjectManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:18:52.773Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.cs",
+              "RelativeDocumentMoniker": "ProjectManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\ProjectManager\\Form1.cs",
+              "RelativeToolTip": "ProjectManager\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T06:19:31.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\ProjectOne\\Calendar.cs",
+              "RelativeDocumentMoniker": "ProjectOne\\Calendar.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SolutionMultyProject\\ProjectOne\\Calendar.cs",
+              "RelativeToolTip": "ProjectOne\\Calendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T05:57:07.544Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
